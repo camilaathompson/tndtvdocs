@@ -1,10 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tek.chat/">
+
 How to Contact TND TV by Phone – A Full Guide 😉
 ============================================
-.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 In this digital age, even thriving broadcast networks like TND TV understand that sometimes, the best way to connect with viewers is through a simple phone call. Whether you're trying to request your favorite show, share feedback, report technical issues, or make an exciting opportunity come alive, learning how to contact TND TV by phone matters. Here’s your comprehensive guide!
 
